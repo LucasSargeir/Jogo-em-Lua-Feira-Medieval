@@ -1,0 +1,23 @@
+Proporções:
+
+Armas: 150x193
+
+Coloridas: 150x155
+
+Armaduras: 150x195
+
+
+
+Coordenadas:
+
+Armas: 
+
+Azul:
+
+Laranja:
+
+Verde:
+
+Roxa:
+
+Armaduras:

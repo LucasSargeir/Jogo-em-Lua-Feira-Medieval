@@ -1,0 +1,9 @@
+Armas: 1201x108
+Azul: 1401x146
+Laranja: 1601x146
+Verde: 1801x146
+Roxa: 2001x146
+Armaduras: 2201x106
+Viking: 3211x1111
+Ferreiro vermelho: 1261x179
+Ferreiro azul: 2261x179

@@ -1,0 +1,7 @@
+Proporções
+
+Frente e trás = 32x74
+
+Lado(Pernas fechadas) = 27x75
+
+Lado(Pernas abertas) = 30x75
