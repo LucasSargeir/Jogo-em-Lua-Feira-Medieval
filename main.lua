@@ -1044,7 +1044,7 @@ function conversaInicial()
     troca = 1
   end
 end  
-
+ 
 
 function getEspadas()
   if checkBoxCollision(party[1]:GetX(),party[1]:GetY(),party[1]:GetWidth(),party[1]:GetHeight(),vet_barracas[2]:GetX(),vet_barracas[2]:GetY(),vet_barracas[2]:GetWidth(),vet_barracas[2]:GetHeight()+50) then
